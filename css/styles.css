@@ -6,9 +6,9 @@
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #202030;
-	background-color: #f8f8fc;
+	background-color: #00056F;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
@@ -22,7 +22,7 @@ body {
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #B3D8FF;
 }
 
 /* Styles for lists in the document */
