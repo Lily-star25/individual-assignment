@@ -3,26 +3,42 @@
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&family=Rubik+Dirt&display=swap');
+
+  
+
 /* Styles for the body */
 
 body {
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #202030;
-	background-color: #00056F;
+	font-family: "Quicksand", sans-serif;
+  	font-optical-sizing: auto;
+ 	 font-style: normal;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
     background-color: #e0f0ff;
+	padding-top: 1em;
 }
 
+.adjusted-padding {
+	padding-top: 1em;
+}
+
+.adjusted-padding2 {
+	padding-top: 2em;
+}
 .resume-main {
 	background-color: #fffefc;
+	padding-top: 1em;
 }
 
 .resume-aside {
 	background-color: #B3D8FF;
+	padding-top: 1em;
 }
 
 /* Styles for lists in the document */
@@ -48,4 +64,8 @@ body {
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+}
+
+.special-font {
+	   font-family: "Rubik Dirt", system-ui;
 }
