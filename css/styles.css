@@ -12,7 +12,7 @@
 /* Styles for the body */
 
 body {
-	font-family: "Quicksand", sans-serif;
+	font-family: "Quicksand";
   	font-optical-sizing: auto;
  	 font-style: normal;
 }
@@ -66,6 +66,20 @@ body {
 	flex-basis: 1.4em;
 }
 
+h2 {
+	font-family: "Quicksand";
+	font-weight: 800;
+}
+
 .special-font {
 	   font-family: "Rubik Dirt", system-ui;
+}
+
+.language-level-fill {
+	background-color: #FFD9F5;
+}
+
+.language-border { 
+		border-color: hotpink;
+	border-style: solid
 }
