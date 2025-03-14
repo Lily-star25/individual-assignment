@@ -72,7 +72,8 @@ h2 {
 }
 
 .special-font {
-	   font-family: "Rubik Dirt", system-ui;
+	   font-family: "Quicksand";
+		font-weight: 600
 }
 
 .language-level-fill {
