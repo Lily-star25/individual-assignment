@@ -72,8 +72,15 @@ h2 {
 }
 
 .special-font {
-	   font-family: "Quicksand";
-		font-weight: 600
+	font-family: "Quicksand";
+	font-weight: 600;
+	color:darkslateblue;
+}
+
+.grainy-font {
+	font-family: "Rubik Dirt" ;
+	font-weight: 500;
+	color:darkslateblue;
 }
 
 .language-level-fill {
@@ -81,6 +88,6 @@ h2 {
 }
 
 .language-border { 
-		border-color: hotpink;
+	border-color: hotpink;
 	border-style: solid
 }
